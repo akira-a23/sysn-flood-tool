@@ -1,4 +1,6 @@
 #SYN FLOOD
+
+
 This SYN Flood tool simulates a SYN flood attack by sending a large number of SYN requests to a target IP address, aiming to overwhelm its resources and make the service unavailable.
 
 Note: A SYN flood attack is an attack against the TCP/IP protocol that can disrupt services on a network, but should only be conducted in controlled environments (like a lab or with permission for penetration testing).

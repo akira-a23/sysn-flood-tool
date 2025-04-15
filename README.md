@@ -1,6 +1,28 @@
-#SYN FLOOD
+SYN Flood Tool
+This repository contains a SYN Flood tool, designed for educational, research, and testing purposes only. This tool simulates a SYN flood attack, a form of Denial of Service (DoS) attack, which exploits the TCP three-way handshake to overwhelm a target server.
 
+Disclaimer: This tool is provided for educational purposes only. Use it responsibly, and only in environments where you have explicit permission to test network security, such as in penetration testing or with the consent of the network owner. Unauthorized use of this tool can be illegal and is strictly prohibited.
 
+Table of Contents
+About
+
+Features
+
+Installation
+
+Usage
+
+What You Can and Cannot Do
+
+Legal & Ethical Considerations
+
+Contributing
+
+Contact
+
+License
+
+About
 This SYN Flood tool simulates a SYN flood attack by sending a large number of SYN requests to a target IP address, aiming to overwhelm its resources and make the service unavailable.
 
 Note: A SYN flood attack is an attack against the TCP/IP protocol that can disrupt services on a network, but should only be conducted in controlled environments (like a lab or with permission for penetration testing).
@@ -53,6 +75,23 @@ Options:
 
 --verbose: Show detailed logs.
 
+What You Can and Cannot Do
+What You Can Do:
+Use this tool for educational and research purposes in a controlled, isolated environment (e.g., a lab setup).
+
+Use this tool with explicit permission for penetration testing or security assessments where the network owner has granted you access.
+
+Contribute to the project by submitting bug reports, fixing issues, or improving functionality under the ethical guidelines mentioned.
+
+What You Cannot Do:
+Do not use this tool on any system or network without explicit permission. Unauthorized usage is illegal and could result in criminal prosecution.
+
+Do not use this tool for any malicious activity. Engaging in DDoS attacks or any form of disruptive behavior without consent is unethical and illegal.
+
+Do not use this tool to target systems that you do not own or have explicit written consent to test. Any unauthorized use could lead to severe legal consequences, including imprisonment.
+
+Do not modify or distribute the tool for illegal purposes. Redistribution with intent to harm or damage systems violates both ethical and legal standards.
+
 Legal & Ethical Considerations
 Important:
 DO NOT use this tool on any system or network without explicit permission. Unauthorized use can result in legal action, including criminal charges.
@@ -72,4 +111,3 @@ For any inquiries, concerns, or questions, feel free to reach out to me directly
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
